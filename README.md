@@ -1,4 +1,4 @@
-# Análisis de Datos - Alura Store LATAM
+# Análisis de Datos - Oracle Alura Store LATAM
 
 Análisis de datos de ventas para las tiendas Alura en LATAM usando Python y Pandas.
 
